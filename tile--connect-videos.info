@@ -10,7 +10,7 @@
     <inherit-templates-p>f</inherit-templates-p>
     <auto-mount>tile--connect-videos</auto-mount>
 
-    <version name="1.0.4d" url="http://openacs.org/repository/download/apm/tile--connect-videos-1.0.4d.apm">
+    <version name="1.0.4" url="http://openacs.org/repository/download/apm/tile--connect-videos-1.0.4.apm">
         <owner url="mailto:acsctrl@mednet.ucla.edu">ACS CTRL</owner>
         <summary>Tile package for DGIT Connect Videos</summary>
         <release-date>2022-09-02</release-date>
@@ -18,7 +18,7 @@
         <maturity>0</maturity>
 
         <extends url="dgit-base-tile" version="1.3.0"/>
-        <provides url="tile--connect-videos" version="1.0.4d"/>
+        <provides url="tile--connect-videos" version="1.0.4"/>
 
         <callbacks>
         </callbacks>
